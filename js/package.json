@@ -1,0 +1,11 @@
+{
+  "name": "u-fend-project-1",
+  "version": "1.0.0",
+  "description": "First project in the FEND. This is to build a portfolio based on a PDF mockup.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
