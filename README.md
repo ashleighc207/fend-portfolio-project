@@ -1,7 +1,5 @@
-# Front-end Nanodegree Projects
-This repository contains all my files for the Front-end Nanodegree projects. 
+# Front-end Nanodegree Project #1
+###### Responsive Portfolio
 
-# Projects
-### Portfolio 
-###### **https://ashleighc207.github.io/u-frontend-nanodegree/**
+#### Description
 This project instruction was to take a PDF mockup of a portfolio and convert it to a fully responsive website using Flexbox and media queries. 
