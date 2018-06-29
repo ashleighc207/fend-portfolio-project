@@ -45,6 +45,7 @@ a {
 	text-align: center;
 	justify-content: space-between;
 	flex-wrap: wrap;
+	box-shadow: 0px 0px 5px #7d97ad;
 }
 
 .container-hero-img {
@@ -70,6 +71,7 @@ a {
 	border-radius: 5px;
 	width: 100%;
 	display: block;
+	max-height: 187px;
 }
 
 .project-module {
