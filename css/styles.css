@@ -34,9 +34,10 @@ a {
 .container-header {
 	display: flex;
 	justify-content: space-between;
-	height: 20%;
+	min-height: 100px;
 	align-items: center;
 	margin-top: 15px;
+	padding: 0px 20px;
 }
 
 .container-main-content {
