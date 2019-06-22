@@ -1,4 +1,4 @@
-body, html {
+body {
 	width: 100%;
 	height: auto;
 	margin: 0;
@@ -12,7 +12,8 @@ img {
 
 .heading-name, .heading-one, .heading-two, .heading-four {
 	margin: 0;
-	font-weight: 200;
+	font-weight: 400;
+	color: #ffffff;
 }
 
 a {
