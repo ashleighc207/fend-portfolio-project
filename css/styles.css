@@ -142,7 +142,7 @@ a:hover {
 	}
 	.heading-one {
 		margin: .5em auto;
-		font-size: 25px;
+		font-size: 20px;
 	}
 }
 
@@ -157,6 +157,7 @@ a:hover {
 	.project-module {
 		width: 100%;
 		margin: .8em 0;
+		max-height: 300px;
 	}
 	.contact-links {
 		margin-top: 1em;
@@ -172,7 +173,7 @@ a:hover {
 		flex-direction: column;
 	}
 	.header-text {
-	text-align: center;
+		text-align: center;
 	}
 	.container {
 		margin: 0 1em;
