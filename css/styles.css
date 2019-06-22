@@ -2,7 +2,7 @@ body {
 	width: 100%;
 	height: auto;
 	margin: 0;
-	background: radial-gradient(circle, rgba(100,237,209,0.5844712885154062) 0%, rgba(56,91,255,0.4948354341736695) 100%);
+	background: radial-gradient(circle, rgba(227,227,227,0.9106382978723404) 0%, rgba(243,246,255,0.8978723404255319) 100%);
     background-repeat: no-repeat;
 }
 
@@ -13,7 +13,7 @@ img {
 .heading-name, .heading-one, .heading-two, .heading-four {
 	margin: 0;
 	font-weight: 400;
-	color: #ffffff;
+	color: rgba(33, 33, 33, 0.8);
 }
 
 a {
