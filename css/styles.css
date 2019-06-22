@@ -37,7 +37,6 @@ a {
 	height: 20%;
 	align-items: center;
 	margin-top: 15px;
-	min-height: 120px;
 }
 
 .container-main-content {
@@ -91,10 +90,6 @@ a {
 	border: none;
     border-top: 2px solid rgba(45,60,73, 0.3);
     width: 100%;
-}
-
-.header-text {
-	text-align: right;
 }
 
 .heading-one {
@@ -159,9 +154,19 @@ a:hover {
 }
 
 @media screen and (max-width: 450px){
-		.project-module {
+	.project-module {
 		width: 100%;
-		margin: .5em;
+		margin: .8em 0;
+	}
+	.contact-links {
+		margin-top: 1em;
+		margin-bottom: 1em;
+	}
+	.contact-links i {
+		font-size: 45px;
+	}
+	.heading-two {
+		padding-top: 1em;
 	}
 	.container-header {
 		flex-direction: column;
@@ -170,7 +175,7 @@ a:hover {
 	text-align: center;
 	}
 	.container {
-		margin: 0 2em;
+		margin: 0 1em;
 	}
 }
 
